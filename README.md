@@ -1,4 +1,4 @@
-**Automated API Testing Framework - Java | RestAssured | TestNG**
+##**Automated API Testing Framework - Java | RestAssured | TestNG**
 
 ![celltrak](https://user-images.githubusercontent.com/6266503/52169371-ea34a700-26eb-11e9-8100-c0580f24eee6.gif)
 
